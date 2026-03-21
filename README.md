@@ -82,8 +82,8 @@ One-click AI analysis. The agent processes real portfolio data and returns a str
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/portfolio-dashboard.git
-cd portfolio-dashboard
+git clone https://github.com/MariaVittoriaColtri/portfolio-tracker-streamlit.git
+cd portfolio-tracker-streamlit
 ```
 
 2. Install dependencies
