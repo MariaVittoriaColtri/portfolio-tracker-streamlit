@@ -16,10 +16,10 @@ This project is an interactive investment dashboard built with Python and Stream
 
 I started from a Google Colab notebook where I built and tested the full financial logic from scratch. I also did research on the financial side and on Kaggle for the AI agent implementation. The dashboard is the production result of that work.
 
-![Dashboard overview](screenshots/dashboard_overview.png)
+![Dashboard overview](visuals/dashboard_overview.png)
 *Figure 1: Main dashboard view showing metric cards, holdings table and price performance chart.*
 
-![Strategy Agent output](screenshots/strategy_agent.png)
+![Strategy Agent output](visuals/strategy_agent.png)
 *Figure 2: AI Strategy Agent output with per-asset recommendations.*
 
 
